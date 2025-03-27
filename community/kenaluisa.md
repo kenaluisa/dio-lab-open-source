@@ -12,10 +12,10 @@ Foi criado um arquivo readme em um projeto open source para praticar as habilida
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora front-end. Estou dando os primeiros passos na minha carreira de programadora. Estou a descobrir este novo mundo com uma mente aberta. 
+Eu sou uma pessoa desenvolvedora front-end. Estou dando os primeiros passos na minha carreira de programadora. Estou descobrindo este novo mundo com uma mente aberta e pronta para trabalhar em equipe. 
 Ah, eu falo espanhol, português e um pouco de inglês, ok?
 
-I'm a front-end developer. I'm taking my first steps in my career as a developer. I'm discovering this new world with an open mind. 
+I'm a front-end developer. I'm taking my first steps in my career as a developer. I'm discovering this new world with an open mind working together. 
 Oh, I can speak Spanish, Portuguese and a little English, okay?
 ## 🛠 Habilidades
 Javascript, HTML, CSS, MongoDB, node.js, MySQL, Java e Python
