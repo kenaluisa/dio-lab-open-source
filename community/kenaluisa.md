@@ -18,5 +18,5 @@ Ah, eu falo espanhol, português e um pouco de inglês, ok?
 I'm a front-end developer. I'm taking my first steps in my career as a developer. I'm discovering this new world with an open mind working together. 
 Oh, I can speak Spanish, Portuguese and a little English, okay?
 ## 🛠 Habilidades
-Javascript, HTML, CSS, MongoDB, node.js, MySQL, Java e Python
+Javascript, HTML, CSS, MongoDB, node.js, MySQL, Java, Python
 
